@@ -19,7 +19,8 @@ header {
 
 .inline-block {
         display:inline-block ;
-vertical-align: top;
+        vertical-align: top;
+        background-color: bisque;
 
 }
 .logo {width: 50%;
